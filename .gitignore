@@ -16,6 +16,10 @@
 # production
 /build
 
+
+# SFDX files
+.sfdx/*
+
 # misc
 .DS_Store
 *.pem
